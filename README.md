@@ -1,2 +1,16 @@
-# entragas-dio
-Repositório usado para fazer as entregas dos projetos pedidos durante os cursos
+# Entregas de Projetos Abertos
+
+Bem-vindo ao repositório de **Entregas de Projetos Abertos**! Este repositório foi criado com o objetivo de centralizar e organizar todas as entregas relacionadas a projetos de código aberto. Aqui você encontrará contribuições de diversos colaboradores em diferentes projetos, visando a colaboração e o compartilhamento de conhecimento.
+
+## Objetivo
+
+O objetivo principal deste repositório é:
+
+- **Centralizar as entregas:** Reunir em um único local todas as entregas de projetos de código aberto, facilitando o acesso e a organização.
+- **Promover a colaboração:** Incentivar a participação de diversos colaboradores em projetos abertos, fomentando o aprendizado e a troca de experiências.
+- **Compartilhar conhecimento:** Divulgar soluções, códigos e boas práticas desenvolvidas durante os projetos, contribuindo para a comunidade de código aberto.
+
+## Estrutura do Repositório
+
+O repositório está organizado da seguinte forma:
+
